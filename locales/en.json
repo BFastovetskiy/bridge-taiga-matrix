@@ -1,0 +1,8 @@
+{
+    "no_deadline": "Warning! No deadline set for: %s",
+    "overdue": "%s OVERDUE: %s (deadline: %s)",
+    "days_left": "Warning! %s \"%s\" has %d or fewer days left (deadline: %s)",
+    "sent": "Sent: %s",
+    "userstory": "User story",
+    "task": "Task"
+}

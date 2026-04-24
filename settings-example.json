@@ -1,0 +1,26 @@
+{
+    "taigaBaseURL"  : "https://taiga.io",
+    "taigaUsername" : "UserName",
+    "taigaPassword" : "Password",
+    "taigaProjects"  : [
+        {
+            "name": "project-1",
+            "matrixProjectRoomID": "!MATRIX-PROJECT#1-ROOM-ID:matrix.org"
+        },
+        {
+            "name": "project-2",
+            "matrixProjectRoomID": "!MATRIX-PROJECT#2-ROOM-ID:matrix.org"
+        }
+    ],
+
+    "matrixServer" : "https://matrix.org",
+    "matrixToken"  : "MATRIX-TOKEN",
+    "duplicateToGeneralGroup": true,
+    "generalRoomId": "!MATRIX-GENERAL-ROOM-ID:matrix.org",
+
+    "InsecureSkipVerify": true,
+
+    "language": "",
+
+    "daysUntilDeadline": 15
+}
